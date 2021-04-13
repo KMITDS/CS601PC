@@ -1,0 +1,63 @@
+https://www.vtupulse.com/machine-learning/machine-learning-question-with-answers-module-1/
+1. Define Machine Learning. Explain with examples why machine learning is important.
+2. Discuss some applications of machine learning with examples.
+
+3. Explain how some disciplines have influenced the machine learning.
+
+4. What is well- posed learning problems.
+
+5. Describe the following problems with respect to Tasks, Performance and Experience:
+
+A Checkers learning problem
+A Handwritten recognition learning problem
+A Robot driving learning problem
+6. Explain the steps in designing a learning systems in detail.
+
+7. Explain different perspective and issues in machine learning.
+
+8. Define concept learning and discuss with example.
+
+9. Explain the General-to-Specific Ordering of Hypotheses
+
+10. Write FIND-S algorithm and explain with example given below
+
+Example	Sky	AirTemp	Humidity	Wind	Water	Forecast	EnjoySport
+1	Sunny	Warm	Normal	Strong	Warm	Same	Yes
+2	Sunny	Warm	High	Strong	Warm	Same	Yes
+3	Rainy	Cold	High	Strong	Warm	Change	No
+4	Sunny	Warm	High	Strong	Cool	Change	Yes
+
+11. What are the key properties and complaints of FIND-S algorithm?
+2. Define Consistent Hypothesis and Version Space.
+
+13. Write LIST-THEN-ELIMINATE algorithm. Give Example.
+
+14. Write the candidate elimination algorithm and illustrate with example
+
+15. Write the final version space for the below mentioned training examples using candidate elimination algorithm.
+
+Example – 1:
+Origin	Manufacturer	Color	Decade	Type	Example Type
+Japan	Honda	Blue	1980	Economy	Positive
+Japan	Toyota	Green	1970	Sports	Negative
+Japan	Toyota	Blue	1990	Economy	Positive
+USA	Chrysler	Red	1980	Economy	Negative
+Japan	Honda	White	1980	Economy	Positive
+Japan	Toyota	Green	1980	Economy	Positive
+Japan	Honda	Red	1990	Economy	Negative
+Example – 2:
+Size	Color	Shape	Class
+Big	Red	Circle	No
+Small	Red	Triangle	No
+Small	Red	Circle	Yes
+Big	Blue	Circle	No
+Small	Blue	Circle	Yes
+Example – 3:
+Example	Citations	Size	InLibrary	Price	Editions	Buy
+1	Some	Small	No	Affordable	One	No
+2	Many	Big	No	Expensive	Many	Yes
+3	Many	Medium	No	Expensive	Few	Yes
+4	Many	Small	No	Affordable	Many	Yes
+
+
+16. Explain in detail the Inductive Bias of Candidate Elimination algorithm.
