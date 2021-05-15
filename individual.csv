@@ -1,0 +1,11 @@
+Id,income,recreation,job,status,age-group,home-owner,cw
+1,medium,skiing,design,single,twenties,no,highRisk
+2,high,golf,trading,married,forties,yes,lowRisk
+3,low,speedway,transport,married,thirties,yes,medRisk
+4,medium,football,banking,single,thirties,yes,lowRisk
+5,high,flying,media,married,fifties,yes,highRisk
+6,low,football,security,single,twenties,no,medRisk
+7,medium,golf,media,single,thirties,yes,medRisk
+8,medium,golf,transport,married,forties,yes,lowRisk
+9,high,skiing,banking,single,thirties,yes,highRisk
+10,low,golf,unemployed,married,forties,yes,highRisk
